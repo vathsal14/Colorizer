@@ -1,5 +1,4 @@
-# Ignore the large model file
-models/colorization_release_v2.caffemodel
+
 
 # Ignore other common files
 __pycache__/
